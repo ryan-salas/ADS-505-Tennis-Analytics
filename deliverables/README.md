@@ -8,7 +8,6 @@ ADS-505 ATP Tennis Analytics team project.
 - Business-Brief_Team8.pdf
 - Technical_Notebook-Team8.pdf
 - Executive-Slides-Team8.pdf
-- Executive-Slides-Team8.pptx
 
 These files document the project's technical
 analysis, business findings, recommendations,
